@@ -7,7 +7,10 @@ Below is the Image of the Assignment:
 Below are the steps followed for Assignment completion:
 
 •	Download and Install Docker desktop (Using Windows machine)
+
 •	Create a dummy Flask Application. 
+This Application just prints """Hello World 
+        Welcome to basic app developed for Docker creation!!!""" on the browser.
 ![image](https://github.com/user-attachments/assets/b75adb4b-7979-470d-8506-b4765b8ca9cf)
 
 •	Once the Application is  created create a requirement.txt file containing all the Python libraries we need to Install. In our case, we only required Flask.
