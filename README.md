@@ -1,0 +1,2 @@
+# IIT-J_G23AI2037_VCC
+VCC Assignments
